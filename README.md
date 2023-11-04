@@ -1,3 +1,4 @@
 # First Repo
 
-this is my first repo
+This is my first repo
+I will learn through this notebook
